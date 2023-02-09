@@ -1,7 +1,7 @@
 # MDRNet+ ---PyTorch
 This is the official PyTorch implementation of MDRNet+ (IEEE TNNLS 2023): [Mitigating Modality Discrepancies for RGB-T Semantic Segmentation](https://ieeexplore.ieee.org/document/10008228)
 ## Introduction
-MDRNet+ is an improved and expanded version of our CVPR 2021 paper ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation. An earlier version of this article was presented in part at CVPR 2021, DOI: 10.1109/CVPR46437.2021.00266
+MDRNet+ is an improved and expanded version of our CVPR 2021 paper [ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation](https://ieeexplore.ieee.org/document/9578077). An earlier version of this article was presented in part at CVPR 2021, DOI: 10.1109/CVPR46437.2021.00266
 ## Dataset
 MFNet dataset: Original dataset [download](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), RTFNet version [download](https://github.com/yuxiangsun/RTFNet), GMNet version [download](https://github.com/Jinfu0913/GMNet), our model use the MFNet dataset provided by GMNet
 ## Notice
@@ -13,8 +13,8 @@ Predict maps: [download](https://pan.baidu.com/s/1KL65FQBue8Q5MIdayE-7Sg) passwo
 ## Citation
 If you find ABMDRNet and MDRNet+ useful in your research, please consider citing:  
 @inproceedings{zhang2021abmdrnet,  
-  title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic segmentation},  
-  author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, Jungong},  
+               title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic segmentation},  
+               author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, Jungong},  
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
   pages={2633--2642},  
   year={2021}  
