@@ -7,7 +7,7 @@ MFNet dataset: Original dataset [download](https://www.mi.t.u-tokyo.ac.jp/static
 This model use the MFNet dataset provided by GMNet
 ## Notice
 Note that change the dataset path as well as the save weight path in  
-./util/util &ensp; &ensp;&ensp; &ensp;./util/irseg,&ensp; &ensp;&ensp; &ensp;./train.py
+./util/util.py &ensp; &ensp;&ensp; &ensp;./util/irseg.py,&ensp; &ensp;&ensp; &ensp;./train.py
 ## Pretrained weights
 The final weights used in this paper: [download](https://pan.baidu.com/s/1wolrOPNvQrOrIQtrwGm_jw) &ensp;&ensp;password：4kod
 ## Results
@@ -29,6 +29,6 @@ If you find ABMDRNet and MDRNet+ useful in your research, please consider citing
   &ensp; &ensp;publisher={IEEE}  
 }
 ## Acknowledgement
-Thanks the code of [RTFNet](https://github.com/yuxiangsun/RTFNet) provided by Yuxiang Sun and [GMNet] provided by Jinfu Liu(https://github.com/Jinfu0913/GMNet)!
+Thanks the code of [RTFNet](https://github.com/yuxiangsun/RTFNet) provided by Yuxiang Sun and [GMNet](https://github.com/Jinfu0913/GMNet) provided by Jinfu Liu!
 ## Contact
 Please drop me an email for further problems or discussion: zhaoshenlu@stu.xidian.edu.cn
