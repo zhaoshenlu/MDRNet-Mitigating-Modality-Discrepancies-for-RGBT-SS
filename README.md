@@ -14,6 +14,8 @@ The final weights used in this paper: [download](https://pan.baidu.com/s/1wolrOP
 Predict maps: [download](https://pan.baidu.com/s/1KL65FQBue8Q5MIdayE-7Sg) &ensp;&ensp;password：pxhg
 ## Citation
 If you find ABMDRNet and MDRNet+ useful in your research, please consider citing:<br>
+
+
 @inproceedings{zhang2021abmdrnet,  
               &ensp; &ensp;title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic segmentation},  
               &ensp; &ensp;author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, Jungong},  
@@ -21,6 +23,8 @@ If you find ABMDRNet and MDRNet+ useful in your research, please consider citing
   &ensp; &ensp;pages={2633--2642},  
   &ensp; &ensp;year={2021}  
 }    <br>
+
+
 @article{zhao2023mitigating,  
   &ensp; &ensp;title={Mitigating Modality Discrepancies for RGB-T Semantic Segmentation},  
   &ensp; &ensp;author={Zhao, Shenlu and Liu, Yichen and Jiao, Qiang and Zhang, Qiang and Han, Jungong},  
