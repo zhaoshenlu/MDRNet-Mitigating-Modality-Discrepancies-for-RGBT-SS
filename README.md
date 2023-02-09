@@ -21,8 +21,8 @@ If you find ABMDRNet and MDRNet+ useful in your research, please consider citing
 
 
 @inproceedings{zhang2021abmdrnet,  
-              &ensp; &ensp;title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic segmentation},  
-              &ensp; &ensp;author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, Jungong},  
+              &ensp; &ensp;title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic &ensp; &ensp;segmentation},  
+              &ensp; &ensp;author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, &ensp; &ensp;Jungong},  
   &ensp; &ensp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
   &ensp; &ensp;pages={2633--2642},  
   &ensp; &ensp;year={2021}  
