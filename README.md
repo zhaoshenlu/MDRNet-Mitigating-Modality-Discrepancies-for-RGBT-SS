@@ -15,18 +15,18 @@ If you find ABMDRNet and MDRNet+ useful in your research, please consider citing
 @inproceedings{zhang2021abmdrnet,  
               &ensp; &ensp;title={ABMDRNet: Adaptive-weighted bi-directional modality difference reduction network for RGB-T semantic segmentation},  
               &ensp; &ensp;author={Zhang, Qiang and Zhao, Shenlu and Luo, Yongjiang and Zhang, Dingwen and Huang, Nianchang and Han, Jungong},  
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
-  pages={2633--2642},  
-  year={2021}  
-}  
+  &ensp; &ensp;booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
+  &ensp; &ensp;pages={2633--2642},  
+  &ensp; &ensp;year={2021}  
+}    
 @article{zhao2023mitigating,  
-  title={Mitigating Modality Discrepancies for RGB-T Semantic Segmentation},  
-  author={Zhao, Shenlu and Liu, Yichen and Jiao, Qiang and Zhang, Qiang and Han, Jungong},  
-  journal={IEEE Transactions on Neural Networks and Learning Systems},  
-  year={2023},  
-  publisher={IEEE}  
+  &ensp; &ensp;title={Mitigating Modality Discrepancies for RGB-T Semantic Segmentation},  
+  &ensp; &ensp;author={Zhao, Shenlu and Liu, Yichen and Jiao, Qiang and Zhang, Qiang and Han, Jungong},  
+  &ensp; &ensp;journal={IEEE Transactions on Neural Networks and Learning Systems},  
+  &ensp; &ensp;year={2023},  
+  &ensp; &ensp;publisher={IEEE}  
 }
 ## Acknowledgement
-Thanks the code of [RTFNet](https://github.com/yuxiangsun/RTFNet) provided by Yuxiang Sun and [GMNet](https://github.com/Jinfu0913/GMNet)!
+Thanks the code of [RTFNet](https://github.com/yuxiangsun/RTFNet) provided by Yuxiang Sun and [GMNet] provided by Jinfu Liu(https://github.com/Jinfu0913/GMNet)!
 ## Contact
 Please drop me an email for further problems or discussion: zhaoshenlu@stu.xidian.edu.cn
